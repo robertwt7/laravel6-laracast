@@ -36,8 +36,6 @@ class EventServiceProvider extends ServiceProvider
     public function boot()
     {
         parent::boot();
-
-        //
     }
 
     // NOTE: if this is returned as true, it overrides method of the EventServiceProvider

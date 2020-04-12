@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1dd5c933-1525-46a2-ae0b-0891dc5804df" name="Default Changelist" comment="" />
+    <list default="true" id="1dd5c933-1525-46a2-ae0b-0891dc5804df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/laravel6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/laravel6.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +18,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -110,9 +119,29 @@
       <path value="$PROJECT_DIR$/vendor/symfony/process" />
       <path value="$PROJECT_DIR$/vendor/symfony/mime" />
       <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/vendor/laravel/nexmo-notification-channel" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/php-http/httplug" />
+      <path value="$PROJECT_DIR$/vendor/php-http/guzzle6-adapter" />
+      <path value="$PROJECT_DIR$/vendor/php-http/promise" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/nexmo/client-core" />
+      <path value="$PROJECT_DIR$/vendor/nexmo/client" />
+      <path value="$PROJECT_DIR$/vendor/nexmo/laravel" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/ocramius/package-versions" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-diactoros" />
     </include_path>
   </component>
   <component name="ProjectId" id="1WjLWlXfOUpn62DEXkAS44KWe7w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -121,9 +150,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.PHP Additions" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -155,6 +185,11 @@
       <updated>1579658090229</updated>
       <workItem from="1579658092243" duration="374000" />
       <workItem from="1579658524473" duration="247000" />
+      <workItem from="1586219935640" duration="634000" />
+      <workItem from="1586220667810" duration="1161000" />
+      <workItem from="1586221902903" duration="1282000" />
+      <workItem from="1586223459273" duration="2145000" />
+      <workItem from="1586227103703" duration="438000" />
     </task>
     <servers />
   </component>
@@ -162,18 +197,53 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="341" y="144" key="SettingsEditor" timestamp="1579658739956">
-      <screen x="0" y="23" width="1680" height="966" />
+    <state x="440" y="175" key="#Notifications" timestamp="1586223598987">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state x="440" y="175" key="#Notifications/0.23.1680.974@0.23.1680.974" timestamp="1586223598987" />
+    <state x="584" y="112" key="#PHP_CS_Fixer" timestamp="1586224840422">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state x="584" y="112" key="#PHP_CS_Fixer/0.23.1680.974@0.23.1680.974" timestamp="1586224840422" />
+    <state x="572" y="355" width="693" height="309" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1586225112628">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state x="572" y="355" width="693" height="309" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.23.1680.974@0.23.1680.974" timestamp="1586225112628" />
+    <state x="405" y="384" key="#com.jetbrains.php.refactoring.move.PhpMoveClassDialog#1" timestamp="1586222127270">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state x="405" y="384" key="#com.jetbrains.php.refactoring.move.PhpMoveClassDialog#1/0.23.1680.974@0.23.1680.974" timestamp="1586222127270" />
+    <state x="498" y="89" key="SettingsEditor" timestamp="1586227352933">
+      <screen x="0" y="23" width="1680" height="974" />
     </state>
     <state x="341" y="144" key="SettingsEditor/0.23.1680.965@0.23.1680.965" timestamp="1579658461646" />
     <state x="341" y="144" key="SettingsEditor/0.23.1680.966@0.23.1680.966" timestamp="1579658739956" />
-    <state x="500" y="338" key="com.intellij.ide.util.TipDialog" timestamp="1579658572873">
-      <screen x="0" y="23" width="1680" height="966" />
+    <state x="498" y="89" key="SettingsEditor/0.23.1680.974@0.23.1680.974" timestamp="1586227352933" />
+    <state x="570" y="249" width="540" height="540" key="StructurePopup" timestamp="1586223524333">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state x="570" y="249" width="540" height="540" key="StructurePopup/0.23.1680.974@0.23.1680.974" timestamp="1586223524333" />
+    <state x="603" y="361" key="cloudConfig.SelfSettingsDialog" timestamp="1586225233801">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state x="603" y="361" key="cloudConfig.SelfSettingsDialog/0.23.1680.974@0.23.1680.974" timestamp="1586225233801" />
+    <state x="500" y="341" key="com.intellij.ide.util.TipDialog" timestamp="1586227173091">
+      <screen x="0" y="23" width="1680" height="974" />
     </state>
     <state x="500" y="338" key="com.intellij.ide.util.TipDialog/0.23.1680.966@0.23.1680.966" timestamp="1579658572873" />
-    <state x="505" y="235" width="670" height="676" key="search.everywhere.popup" timestamp="1579658308439">
-      <screen x="0" y="23" width="1680" height="965" />
+    <state x="500" y="341" key="com.intellij.ide.util.TipDialog/0.23.1680.974@0.23.1680.974" timestamp="1586227173091" />
+    <state x="495" y="121" width="690" height="777" key="find.popup" timestamp="1586223857904">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state x="495" y="121" width="690" height="777" key="find.popup/0.23.1680.974@0.23.1680.974" timestamp="1586223857904" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1586223322744">
+      <screen x="0" y="23" width="1680" height="974" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1680.974@0.23.1680.974" timestamp="1586223322744" />
+    <state x="505" y="237" width="670" height="683" key="search.everywhere.popup" timestamp="1586224983037">
+      <screen x="0" y="23" width="1680" height="974" />
     </state>
     <state x="505" y="235" width="670" height="676" key="search.everywhere.popup/0.23.1680.965@0.23.1680.965" timestamp="1579658308439" />
+    <state x="505" y="237" width="670" height="683" key="search.everywhere.popup/0.23.1680.974@0.23.1680.974" timestamp="1586224983037" />
   </component>
 </project>
